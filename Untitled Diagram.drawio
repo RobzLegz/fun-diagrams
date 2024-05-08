@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-05-08T12:59:33.411Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="ILVcXqq4Y_2Zi0LrNig0" version="24.3.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-08T13:02:47.733Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="V1m8Xo7ob9Ec7ZuV44XZ" version="24.3.1" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="625" dy="330" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="744" dy="393" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -322,6 +322,47 @@
         </mxCell>
         <mxCell id="_P_tWsRWUz9dd7yuZsEV-96" value="AUTOBUSA ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="450" y="850" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-97" value="NOSAKA&amp;nbsp;&lt;div&gt;MARŠRUTA ID&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="150" y="945" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-98" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1070" as="sourcePoint" />
+            <mxPoint x="350" y="1070" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-99" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="260" y="1110" as="sourcePoint" />
+            <mxPoint x="350" y="1110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-100" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="_P_tWsRWUz9dd7yuZsEV-97">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="1070" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-101" value="MARŠRUTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="1075" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-102" value="VALSTS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=0;" vertex="1" parent="1">
+          <mxGeometry x="190" y="880" width="70" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-103" value="" style="endArrow=none;html=1;rounded=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endFill=0;startArrow=classic;startFill=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="_P_tWsRWUz9dd7yuZsEV-97" target="_P_tWsRWUz9dd7yuZsEV-80">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="210" y="970" as="sourcePoint" />
+            <mxPoint x="190" y="843" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-104" value="" style="endArrow=none;html=1;rounded=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;exitX=0;exitY=1;exitDx=0;exitDy=0;endFill=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="_P_tWsRWUz9dd7yuZsEV-89" target="_P_tWsRWUz9dd7yuZsEV-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="420" y="1057" as="sourcePoint" />
+            <mxPoint x="270" y="970" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_P_tWsRWUz9dd7yuZsEV-105" value="MARŠRUTA ID" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;rotation=-10;" vertex="1" parent="1">
+          <mxGeometry x="280" y="945" width="100" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
