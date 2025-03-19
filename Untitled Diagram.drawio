@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="203341" dy="134772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="385581" dy="242126" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -543,6 +543,55 @@
         <mxCell id="yG4r3sdL0abxI-xJaAbc-24" value="Valodu pārvaldības&#xa; apakšistēma" style="shape=rectangle" vertex="1" parent="1">
           <mxGeometry x="1405" y="1630" width="110" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-53" value="FK: user_id" style="shape=relationship;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-45" target="yG4r3sdL0abxI-xJaAbc-46" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-54" value="FK: user_id" style="shape=relationship;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-45" target="yG4r3sdL0abxI-xJaAbc-48" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-55" value="FK: user_id" style="shape=relationship;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-45" target="yG4r3sdL0abxI-xJaAbc-49" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-56" value="FK: user_id" style="shape=relationship;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-45" target="yG4r3sdL0abxI-xJaAbc-50" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-57" value="FK: user_id" style="shape=relationship;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-45" target="yG4r3sdL0abxI-xJaAbc-51" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-58" value="FK: user_id" style="shape=relationship;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-45" target="yG4r3sdL0abxI-xJaAbc-52" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-59" value="FK: media_id" style="shape=relationship;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-46" target="yG4r3sdL0abxI-xJaAbc-47" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-60" value="Users" style="shape=table" vertex="1" parent="1">
+          <mxGeometry x="1820" y="960" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-61" value="PK | id" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-60" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-62" value="email" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-60" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-63" value="name" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-60" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-64" value="role" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-60" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-65" value="languages" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-60" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-66" value="Pages" style="shape=table" vertex="1" parent="1">
+          <mxGeometry x="2120" y="960" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-67" value="PK | id" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-66" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-68" value="title" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-66" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-69" value="slug" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-66" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-70" value="blocks" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-66" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-71" value="protected" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-66" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-72" value="Media" style="shape=table" vertex="1" parent="1">
+          <mxGeometry x="2420" y="960" width="250" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-73" value="PK | id" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-72" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-74" value="alt" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-72" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-75" value="url" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-72" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-76" value="filename" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-72" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-77" value="s3_path" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-72" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-78" value="Embeds" style="shape=table" vertex="1" parent="1">
+          <mxGeometry x="1820" y="1210" width="250" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-79" value="PK | id" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-78" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-80" value="embed" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-78" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-81" value="iframesrc" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-78" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-82" value="Globals" style="shape=table" vertex="1" parent="1">
+          <mxGeometry x="2120" y="1210" width="250" height="150" as="geometry">
+            <mxRectangle x="2120" y="1210" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-83" value="PK | id" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-82" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-84" value="name" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-82" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-85" value="value" style="tableRow" vertex="1" parent="yG4r3sdL0abxI-xJaAbc-82" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-86" value="FK: user_id" style="shape=connector;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-60" target="yG4r3sdL0abxI-xJaAbc-66" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-87" value="FK: media_id" style="shape=connector;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-66" target="yG4r3sdL0abxI-xJaAbc-72" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-88" value="FK: user_id" style="shape=connector;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-60" target="yG4r3sdL0abxI-xJaAbc-78" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-89" value="FK: global_id" style="shape=connector;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-60" target="yG4r3sdL0abxI-xJaAbc-82" />
       </root>
     </mxGraphModel>
   </diagram>
