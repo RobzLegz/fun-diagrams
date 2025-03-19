@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36" version="26.1.1">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="147450" dy="95286" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="203341" dy="134772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -476,27 +476,35 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="yG4r3sdL0abxI-xJaAbc-1" value="Mākslīgā intelekta sistēma &#39;Curriculai&#39;" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="1145" y="1420" width="220" height="50" as="geometry" />
+          <mxGeometry x="1110" y="1430" width="220" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-2" target="yG4r3sdL0abxI-xJaAbc-1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="yG4r3sdL0abxI-xJaAbc-2" value="Frontend" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="950" y="1510" width="200" height="50" as="geometry" />
+          <mxGeometry x="955" y="1540" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1220" y="1480" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="yG4r3sdL0abxI-xJaAbc-3" value="Administratora Panelis" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="1350" y="1510" width="200" height="50" as="geometry" />
+          <mxGeometry x="1295" y="1540" width="200" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yG4r3sdL0abxI-xJaAbc-4" style="edgeStyle=elbowConnector;rounded=1;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-1" target="yG4r3sdL0abxI-xJaAbc-2" />
         <mxCell id="yG4r3sdL0abxI-xJaAbc-5" style="edgeStyle=elbowConnector;rounded=1;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-1" target="yG4r3sdL0abxI-xJaAbc-3" />
         <mxCell id="yG4r3sdL0abxI-xJaAbc-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-6" target="yG4r3sdL0abxI-xJaAbc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yG4r3sdL0abxI-xJaAbc-6" value="Materiālu &#xa;veidošana" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="1077.5" y="1640" width="75" height="50" as="geometry" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-6" value="Materiālu &#xa;veidošanas &#xa;apakšistēma" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="1082.5" y="1670" width="75" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yG4r3sdL0abxI-xJaAbc-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-7" target="yG4r3sdL0abxI-xJaAbc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yG4r3sdL0abxI-xJaAbc-7" value="Materiālu &#xa;pārvaldība" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="1165" y="1640" width="80" height="50" as="geometry" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-7" value="Materiālu &#xa;pārvaldības&#xa;apakšistēma" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="1170" y="1670" width="80" height="60" as="geometry" />
         </mxCell>
         <mxCell id="yG4r3sdL0abxI-xJaAbc-9" style="edgeStyle=elbowConnector;rounded=1;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-2" target="yG4r3sdL0abxI-xJaAbc-6" />
         <mxCell id="yG4r3sdL0abxI-xJaAbc-10" style="edgeStyle=elbowConnector;rounded=1;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-2" target="yG4r3sdL0abxI-xJaAbc-7" />
@@ -506,25 +514,34 @@
         <mxCell id="yG4r3sdL0abxI-xJaAbc-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-16" target="yG4r3sdL0abxI-xJaAbc-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yG4r3sdL0abxI-xJaAbc-16" value="Licenču un lietotāju &#xa;pārvaldība" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="835" y="1640" width="120" height="50" as="geometry" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-16" value="Licenču un lietotāju &#xa;pārvaldības apakšistēma" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="820" y="1670" width="145" height="50" as="geometry" />
         </mxCell>
         <mxCell id="yG4r3sdL0abxI-xJaAbc-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-17">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="1050" y="1560" as="targetPoint" />
+            <mxPoint x="1055" y="1590" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="yG4r3sdL0abxI-xJaAbc-17" value="Autorizācijas&#xa; sistēma" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="965" y="1640" width="105" height="50" as="geometry" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-17" value="Autorizācijas&#xa; apakšistēma" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="970" y="1670" width="105" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yG4r3sdL0abxI-xJaAbc-22" value="Satura pārvaldība" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="1330" y="1600" width="110" height="50" as="geometry" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-22" target="yG4r3sdL0abxI-xJaAbc-3">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="yG4r3sdL0abxI-xJaAbc-23" value="Lietotāju pārvaldība" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="1330" y="1660" width="110" height="50" as="geometry" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-22" value="Satura pārvaldības&#xa; apakšistēma" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="1275" y="1630" width="110" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="yG4r3sdL0abxI-xJaAbc-24" value="Valodu pārvaldība" style="shape=rectangle" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1600" width="110" height="50" as="geometry" />
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-23" target="yG4r3sdL0abxI-xJaAbc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-23" value="Lietotāju pārvaldības &#xa;apakšistēma" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="1535" y="1630" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;startFill=0;" edge="1" parent="1" source="yG4r3sdL0abxI-xJaAbc-24" target="yG4r3sdL0abxI-xJaAbc-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="yG4r3sdL0abxI-xJaAbc-24" value="Valodu pārvaldības&#xa; apakšistēma" style="shape=rectangle" vertex="1" parent="1">
+          <mxGeometry x="1405" y="1630" width="110" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
