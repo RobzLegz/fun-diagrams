@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="662372" dy="546248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="680566" dy="562442" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1007,7 +1007,7 @@
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-4" source="HCJi5gkKE4FmO3Khw5ts-11" target="HCJi5gkKE4FmO3Khw5ts-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-11" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-4">
+        <mxCell id="HCJi5gkKE4FmO3Khw5ts-11" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-4">
           <mxGeometry x="80" y="200" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-4" source="HCJi5gkKE4FmO3Khw5ts-13" target="HCJi5gkKE4FmO3Khw5ts-87">
@@ -1016,7 +1016,7 @@
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-13" value="Parametru ievade" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-4">
           <mxGeometry x="46" y="267.5" width="108" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-87" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-4">
+        <mxCell id="HCJi5gkKE4FmO3Khw5ts-87" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-4">
           <mxGeometry x="80" y="330" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-5" value="Sistēma" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1102,7 +1102,7 @@
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-89" source="HCJi5gkKE4FmO3Khw5ts-95" target="HCJi5gkKE4FmO3Khw5ts-97">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-95" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-89">
+        <mxCell id="HCJi5gkKE4FmO3Khw5ts-95" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-89">
           <mxGeometry x="80" y="140" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-96" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-89" source="HCJi5gkKE4FmO3Khw5ts-97" target="HCJi5gkKE4FmO3Khw5ts-98">
@@ -1111,7 +1111,7 @@
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-97" value="Datu ievade" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-89">
           <mxGeometry x="46" y="200" width="108" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-98" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=1;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-89">
+        <mxCell id="HCJi5gkKE4FmO3Khw5ts-98" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-89">
           <mxGeometry x="80" y="270" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-118" value="Epasta apstiprināšana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-89">
