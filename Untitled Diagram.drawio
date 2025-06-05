@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36" version="27.1.3">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
-    <mxGraphModel dx="863822" dy="700248" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="874022" dy="706848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1282,17 +1282,13 @@
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-152" value="Licences pieprasījums" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-150">
           <mxGeometry x="52" y="60" width="96" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-150" source="HCJi5gkKE4FmO3Khw5ts-154" target="HCJi5gkKE4FmO3Khw5ts-156">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-154" value="Licences plāna izvēle" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-150">
           <mxGeometry x="46" y="130" width="108" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-150" source="HCJi5gkKE4FmO3Khw5ts-156" target="HCJi5gkKE4FmO3Khw5ts-158">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-156" value="" style="rhombus;whiteSpace=wrap;html=1;fillColor=none;rounded=0;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-150">
-          <mxGeometry x="80" y="200" width="40" height="40" as="geometry" />
+        <mxCell id="HCJi5gkKE4FmO3Khw5ts-155" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-150" target="HCJi5gkKE4FmO3Khw5ts-158">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="240" as="sourcePoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-157" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="HCJi5gkKE4FmO3Khw5ts-150" source="HCJi5gkKE4FmO3Khw5ts-158" target="HCJi5gkKE4FmO3Khw5ts-159">
           <mxGeometry relative="1" as="geometry" />
@@ -1306,8 +1302,8 @@
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-160" value="Sistēma" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-1380" y="1695" width="200" height="470" as="geometry" />
         </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-161" value="Izvada kļūdas paziņojumu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-160">
-          <mxGeometry x="55" y="280" width="90" height="37.5" as="geometry" />
+        <mxCell id="HCJi5gkKE4FmO3Khw5ts-161" value="Licences izvēles pãrbaude" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-160">
+          <mxGeometry x="55" y="195" width="90" height="37.5" as="geometry" />
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-162" value="Materiāla ġenerēšana" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="HCJi5gkKE4FmO3Khw5ts-160">
           <mxGeometry x="55" y="331.25" width="90" height="37.5" as="geometry" />
@@ -1328,25 +1324,6 @@
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-167" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="-1540" y="1645" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-168" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCJi5gkKE4FmO3Khw5ts-159" target="HCJi5gkKE4FmO3Khw5ts-161">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="-1340" y="1965" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-1400" y="2045" />
-              <mxPoint x="-1400" y="1995" />
-              <mxPoint x="-1330" y="1995" />
-              <mxPoint x="-1330" y="1994" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-169" value="[nederīgi parametri]" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="HCJi5gkKE4FmO3Khw5ts-168">
-          <mxGeometry x="0.1417" y="-2" relative="1" as="geometry">
-            <mxPoint x="-1" y="21" as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="HCJi5gkKE4FmO3Khw5ts-170" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCJi5gkKE4FmO3Khw5ts-161" target="HCJi5gkKE4FmO3Khw5ts-156">
-          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-171" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCJi5gkKE4FmO3Khw5ts-159" target="HCJi5gkKE4FmO3Khw5ts-162">
           <mxGeometry relative="1" as="geometry" />
@@ -1374,6 +1351,11 @@
         </mxCell>
         <mxCell id="HCJi5gkKE4FmO3Khw5ts-177" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=light-dark(#000000,#000000);" vertex="1" parent="1">
           <mxGeometry x="-1295" y="2205" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="HCJi5gkKE4FmO3Khw5ts-153" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="HCJi5gkKE4FmO3Khw5ts-154" target="HCJi5gkKE4FmO3Khw5ts-161">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-1479.9999999998836" y="1895.0000000001164" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
